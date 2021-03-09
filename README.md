@@ -2,6 +2,6 @@
 ### Я начинающий *Front-end разработчик* из Москвы
 ### На текущий момент мой стек:
 
-![HTML](https://img.shields.io/badge/=HTML=090909?style=for=the=badge&logo+html5)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 
 
