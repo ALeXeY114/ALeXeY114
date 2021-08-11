@@ -17,7 +17,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
 ### Пара примеров моих работ:
-## Адаптивная верстка на flex с использованием JS - 99% на PageSpeed Insights для ПК
+##### Адаптивная верстка на flex с использованием JS - 99% на PageSpeed Insights для ПК
 https://naughty-cray-445875.netlify.app
-## 
+#####
 https://goofy-leakey-f1996d.netlify.app
