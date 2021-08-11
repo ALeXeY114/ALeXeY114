@@ -4,7 +4,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery)
-![API] (https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API)
+![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API)
 
 ###  Активно изучаю  следующие  технологии:
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
@@ -12,4 +12,4 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 
 ### Знаком
-![Docker] (https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
