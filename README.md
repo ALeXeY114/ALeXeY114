@@ -6,6 +6,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery)
 ![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
+![GooglePageSpeed](https://img.shields.io/badge/-GooglePageSpeed-090909?style=for-the-badge&logo=GooglePageSpeed)
 
 ###  Активно изучаю  следующие  технологии:
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
@@ -16,7 +17,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
 ### Пара примеров моих работ:
-## Адаптивная верстка на flex с использованием JS
+## Адаптивная верстка на flex с использованием JS - 99% на PageSpeed Insights для ПК
 https://naughty-cray-445875.netlify.app
 ## 
 https://goofy-leakey-f1996d.netlify.app
