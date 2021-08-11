@@ -16,5 +16,5 @@
 
 ### Пара примеров моих работ:
 
-! https://naughty-cray-445875.netlify.app
-! https://goofy-leakey-f1996d.netlify.app
+![https://naughty-cray-445875.netlify.app]
+![https://goofy-leakey-f1996d.netlify.app]
