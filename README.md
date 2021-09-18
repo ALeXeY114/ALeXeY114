@@ -8,7 +8,7 @@
 ![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
 ![GooglePageSpeed](https://img.shields.io/badge/-GooglePageSpeed-090909?style=for-the-badge&logo=GooglePageSpeed)
-!PerfectPixel](https://img.shields.io/badge/-PerfectPixel-090909?style=for-the-badge&logo=PerfectPixel)
+![PerfectPixel](https://img.shields.io/badge/-PerfectPixel-090909?style=for-the-badge&logo=PerfectPixel)
 
 ###  Активно изучаю  следующие  технологии:
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
