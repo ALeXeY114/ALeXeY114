@@ -16,6 +16,5 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
-### Пример одной из работы:
-##### Адаптивная верстка на flex с использованием JS - 99% на PageSpeed Insights для ПК
-https://naughty-cray-445875.netlify.app
+### Сайт портфолио:
+##### https://wed-developer-bomkoar.000webhostapp.com/
