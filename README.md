@@ -14,6 +14,7 @@
 
 ![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
+![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=Vite)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![GooglePageSpeed](https://img.shields.io/badge/-GooglePageSpeed-090909?style=for-the-badge&logo=GooglePageSpeed)
 ![PerfectPixel](https://img.shields.io/badge/-PerfectPixel-090909?style=for-the-badge&logo=PerfectPixel)
