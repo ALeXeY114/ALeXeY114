@@ -7,12 +7,15 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=Tailwind)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
 
 ### Есть опыт работы с :
 
-![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API)
+![React Native](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=ReactNative)
+![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=Tailwind)
+![Websocket](https://img.shields.io/badge/-Websocket-090909?style=for-the-badge&logo=Websocket)
+![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
+![Rest API](https://img.shields.io/badge/-RestAPI-090909?style=for-the-badge&logo=RestAPI)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=Vite)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
